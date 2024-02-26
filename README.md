@@ -1,4 +1,4 @@
-# Automated Deployment of Two-Tier Application Architecture with Web Servers in Public Subnet and Database/Backend Servers in Private Subnet using Terraform
+# Automated Deployment of AWS VPC with Public and Private Subnet using Terraform
 
 
 This Terraform script automates the setup of a two-tier application architecture on AWS. Web servers are deployed in the public subnet to interact with clients over the internet, while database/backend servers are placed in the private subnet for enhanced security. The script configures networking components such as VPC, subnets, gateways, and security groups, facilitating the creation of a scalable and secure infrastructure for hosting web applications. Automates the deployment of an AWS Virtual Private Cloud (VPC) with both public and private subnets, along with necessary networking components and EC2 instances. The infrastructure is provisioned efficiently, enabling users to establish a robust and scalable environment on AWS.
